@@ -1,5 +1,29 @@
-![Uploading 347042676-a7dd73b6-93de-484d-84e0-e7f4e299167b.png…]()
+🌟 Excited to Share! 🌟
 
+I'm thrilled to announce that I’ve developed a Healthcare Patient Management Application and successfully hosted it on Vercel! 🚀
+
+This app streamlines patient-doctor interactions by enabling patients to register, book, and manage appointments while offering admins tools to schedule, confirm, or cancel appointments.
+
+🔧 Tech Stack:
+
+Next.js for seamless performance
+TypeScript for type-safe development
+Appwrite for backend services
+TailwindCSS for sleek, responsive UI
+Twilio for SMS notifications
+Sentry for monitoring performance
+🔑 Features Include:
+✅ Patient registration and appointment booking
+✅ Admin management of appointments
+✅ Real-time SMS appointment confirmations
+✅ File uploads via Appwrite Storage
+✅ Full responsiveness across all devices
+
+You can check out the live app here: https://carepulse-omega-two.vercel.app/
+
+A huge thanks to the amazing open-source tools and community for making this possible. Feedback is always welcome, and I’m happy to discuss the journey behind building this app!
+
+#NextJS #TypeScript #Appwrite #TailwindCSS #WebDevelopment #HealthcareTech
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
